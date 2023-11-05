@@ -413,6 +413,18 @@ span{
     justify-content: space-between;
 }
 
+.detail-act{
+   
+    width: 85%;
+}
+
+.img-act{
+    margin-top: 20px;
+    
+    width: 85%;
+
+}
+
 .detail-cam{
     display: flex;
     width: 55%;
